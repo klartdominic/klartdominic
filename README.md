@@ -26,7 +26,7 @@ I have contributed to the following open-source projects:
 [Project 2](link to project) - Short description of the contribution
 [Project 3](link to project) - Short description of the contribution
 --->
-##Contact Me
+## Contact Me
 
 You can reach me at klartdominic@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/klart-dominic-sanchez-5849b2128).
 
