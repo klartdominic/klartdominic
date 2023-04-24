@@ -2,13 +2,13 @@
 
 I'm a mobile app developer with experience in building applications using React Native and Flutter. I'm passionate about developing high-quality mobile apps that provide great user experiences.
 
-##My Skills
+## My Skills
 
--React Native
--Flutter
--JavaScript
--TypeScript
--HTML/CSS
+- React Native
+- Flutter
+- JavaScript
+- TypeScript
+- HTML/CSS
 
 
 <!---
